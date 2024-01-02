@@ -12,6 +12,10 @@ Welcome to our fantastic Food Delivery Web App! This web application, built usin
 - [Contributing](#contributing)
 - [License](#license)
 
+![image](https://github.com/ShivamKumarSah/Laziz/assets/67648712/510b3366-7423-424f-9515-9f5bdbfb4caa)
+
+![image](https://github.com/ShivamKumarSah/Laziz/assets/67648712/c0890993-8654-4667-a205-b0bfb5d655de)
+
 ## Features
 
 - 📱 User-friendly interface for seamless navigation.
